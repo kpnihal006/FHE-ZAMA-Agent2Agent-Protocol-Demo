@@ -1,0 +1,5 @@
+{
+  "name": "ZAMA FHE Agent Protocol Demo",
+  "description": "A demonstration of Fully Homomorphic Encryption (FHE) within an Agent-to-Agent protocol, featuring ZAMA-style programmable bootstrapping simulations and Gemini-powered security analysis.",
+  "requestFramePermissions": []
+}
